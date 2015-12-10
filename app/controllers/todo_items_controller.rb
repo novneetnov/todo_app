@@ -4,7 +4,7 @@ class TodoItemsController < ApplicationController
 
 	def create
 		@todo_item = @todo_list.todo_items.create(todo_item_params)
-		redirect_to @todo_list
+		redirect_to @todo_list, notice: "Todo Item Created"
 	end
 
 	def destroy
