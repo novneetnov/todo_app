@@ -1,6 +1,6 @@
 # TODO APP: A Simple App to keep track of Daily Todo Needs
 
-Heroku Link: https://todoapptrack.herokuapp.com/
+###Heroku Link: https://todoapptrack.herokuapp.com/
 
 This week I built a very simple todo-app for daily usage. Focus was mainly on structure & styling. Not many additional gems were used.  
 
